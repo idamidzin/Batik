@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:cnb_backgroundColor="@color/colorPrimaryDark"
+        app:cnb_iconColor="@color/colorWhite"/>
+    <item
+        android:id="@+id/mScanner"
+        android:icon="@drawable/ic_scanner"
+        android:title="Scanner"
+        app:cnb_backgroundColor="@color/colorPrimaryDark"
+        app:cnb_iconColor="@color/colorWhite"/>
+
+    <item
+        android:id="@+id/mProfile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        app:cnb_backgroundColor="@color/colorPrimaryDark"
+        app:cnb_iconColor="@color/colorWhite"/>
+</menu>

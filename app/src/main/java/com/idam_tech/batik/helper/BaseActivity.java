@@ -1,4 +1,4 @@
-package com.idam_tech.batik;
+package com.idam_tech.batik.helper;
 
 import android.content.Context;
 import android.view.View;
